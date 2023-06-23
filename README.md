@@ -32,12 +32,12 @@
 
 ## Support
 
-For support, email darkalphaxteamapi@gmail.com.com or join our WhatsApp Groups 
+For support, email darkalphaxteamapi@gmail.com or join our WhatsApp Groups 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at darkalphaxteamapi@gmail.com.com
+If you have any feedback, please reach out to us at darkalphaxteamapi@gmail.com
 
 
 ## Environment Variables
