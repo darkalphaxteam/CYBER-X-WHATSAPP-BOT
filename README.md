@@ -24,10 +24,13 @@
 ## Features
 
 - Group Commands
+- Download Commands
 - 24 Work time
 - Full Costermizable
 - Free Deployments
 - Latest Baileys Using
+- 2x Respond Speed
+- Amazing Commands
 
 
 ## Support
@@ -46,7 +49,11 @@ To run this project, you will need to add the following environment variables to
 
 `SESSION_ID`
 
+`ALIVE_MESSAGE`
+
 `MODERATORS`
+
+`REMOVE_BG_API`
 
 `OWNER_NUMBER`
 
@@ -58,3 +65,6 @@ And etc available in future Project
 
 **Special Thanks:** Vihanga YT, Nima , Black Amda , Ravindu Manoj
 
+## COPYRIGHTS 
+
+This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
