@@ -1,0 +1,57 @@
+{
+    "name": "CYBER-X 2.0",
+    "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
+    "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
+    "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Bot",
+        "WhatsApp Automation",
+        "Multi Device"
+    ],
+    "env": {
+        "SESSION_ID": {
+            "description": "Type the Session-ID you got from scaning QR",
+            "required": true,
+            "value": ""
+        },
+        "DATABASE_URL": {
+            "description": "Enter a PostgresSQL Database's External Url",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_API_KEY": {
+            "description": "Enter your Heroku account Api key",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Enter you pushed app Name",
+            "required": true,
+            "value": ""
+        },
+        "WORK_TYPE": {
+            "description": "Add the worktype of the Bot ( private ,public , onlygroup )",
+            "required": true,
+            "value": "private"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
