@@ -67,7 +67,7 @@ To run this project, you will need to add the following environment variables to
 
 **Attention:** You dont have permission to edit this
 
-**Special Thanks:** Vihanga YT, Nima , Black Amda , Ravindu Manoj
+**Special Thanks:** Vihanga YT, Nima , Sanuwa , Black Amda and Ravindu Manoj 
 
 ## COPYRIGHTS 
 
