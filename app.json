@@ -1,6 +1,6 @@
 {
-    "name": "CYBER-X 2.0",
-    "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
+    "name": "Cyber-X WhatsApp Bot",
+    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
     "keywords": [
@@ -16,13 +16,8 @@
             "required": true,
             "value": ""
         },
-        "DATABASE_URL": {
-            "description": "Enter a PostgresSQL Database's External Url",
-            "required": true,
-            "value": ""
-        },
         "HEROKU_API_KEY": {
-            "description": "Enter your Heroku account Api key",
+            "description": "Enter your heroku account api key",
             "required": true,
             "value": ""
         },
@@ -32,20 +27,28 @@
             "value": ""
         },
         "WORK_TYPE": {
-            "description": "Add the worktype of the Bot ( private ,public , onlygroup )",
+            "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
             "value": "private"
         }
     },
     "buildpacks": [
         {
-            "url": "heroku/nodejs"
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         },
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
         },
         {
             "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "13"
+            }
         }
     ],
     "formation": {
