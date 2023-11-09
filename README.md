@@ -66,9 +66,9 @@ To run this project, you will need to add the following environment variables to
 `HEROKU_API_KEY`
 
 
-## Scrpit 
+## Script 
 
-If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](wa.me/94711421243)
+If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](https://wa.me/711421243)
 
 
 
