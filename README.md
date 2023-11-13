@@ -22,7 +22,7 @@
 
 ## Heroku Deployment
 
-1. Scan QR - [Click here](https://gpt-qr-code.onrender.com/cyber-x)
+1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
 
 2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
