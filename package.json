@@ -9,6 +9,7 @@
         "stop": "pm2 stop wabot",
         "restart": "pm2 restart wabot"
     },
+    "author": "darkalphaxteam",
     "dependencies": {
         "@whiskeysockets/baileys": "git+https://github.com/darkalphaxteam/Baileys-New.git",
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -19,6 +20,7 @@
         "@sl-code-lords/wabetainfo" : "^1.2.0",
         "@sl-code-lords/movie-dl" : "^1.0.3",
         "@sl-code-lords/openai-chatgpt" : "^1.0.2",
+        "translate-google" : "^1.5.0",
         "aptoide-scraper" : "^1.0.1",
         "link-preview-js": "^3.0.4",
         "heroku-client" : "^3.1.0",
@@ -57,5 +59,16 @@
         "pornhub.js" : "^1.5.1",
         "openai" : "^3.2.1",
         "postgres_dbm" : "^1.1.0"
-    }
+    },
+    "overrides":{
+         "cache-manager":"5.2.2"
+    },
+    "repository": {
+         "type": "git",
+         "url": "git+https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT"
+    },
+    "bugs": {
+         "url": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT"
+    },
+  "homepage": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT"
 }
