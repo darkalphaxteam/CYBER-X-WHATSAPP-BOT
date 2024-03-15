@@ -1,5 +1,5 @@
 {
-    "name": "CYBER-X",
+    "name": "TOXIC-MD",
     "version": "2.0.1",
     "description": "A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript",
     "main": "index.js",
@@ -58,8 +58,7 @@
         "nima-google-now" :"^1.0.1",
         "pornhub.js" : "^1.5.1",
         "openai" : "^3.2.1",
-        "postgres_dbm" : "^1.1.0",
-        "koyeb-api-client":"latest"
+        "postgres_dbm" : "^1.1.0"
     },
     "overrides":{
          "cache-manager":"5.2.2"
