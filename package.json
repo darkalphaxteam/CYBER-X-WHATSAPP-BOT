@@ -58,7 +58,8 @@
         "nima-google-now" :"^1.0.1",
         "pornhub.js" : "^1.5.1",
         "openai" : "^3.2.1",
-        "postgres_dbm" : "^1.1.0"
+        "postgres_dbm" : "^1.1.0",
+        "koyeb-api-client":"latest"
     },
     "overrides":{
          "cache-manager":"5.2.2"
