@@ -17,16 +17,10 @@
             "value": ""
         },
     "env": {
-        "SESSION_ID_1": {
+        "SESSION_ID1": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": "" 
-       },
-   "env": {
-        "SESSION_ID_2": {
-            "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
-            "value": ""
        },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
