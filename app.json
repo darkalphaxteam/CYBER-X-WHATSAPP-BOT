@@ -12,17 +12,17 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "09_04_2024_SIGMA_MD_hgb02MDR_MAHER_ZUBAIR",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "583d63d0-b721-44ce-9986-1c5f7a94df2c",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "Mehmood khan",
             "required": true,
             "value": ""
         },
