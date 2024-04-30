@@ -22,7 +22,8 @@
 
 ## Heroku Deployment
 
-1. Scan QR - [Click here](https://gpt-qr-web-scaner.render.com/cyber-x.html)
+1. Scan QR - [Click here]<br>
+<a href='https://replit.com/@mznking04/XLICON-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
