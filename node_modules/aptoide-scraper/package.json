@@ -1,0 +1,34 @@
+{
+    "name": "aptoide-scraper",
+    "version": "1.0.1",
+    "description": "Search and get apk from aptoide.",
+    "main": "app.js",
+    "scripts": {
+        "test": "node app.js",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vihangayt0/Aptoide-Scraper.git"
+    },
+    "keywords": [
+        "Apkdl",
+        "apk downloader",
+        "scraper",
+        "playstore",
+        "playstore dl"
+    ],
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "axios": "^1.2.2",
+        "file_size_url": "^1.0.4",
+        "node-fetch": "^3.3.0"
+    },
+    "author": "vihangayt0 <vihangamd1@gmail.com> (https://github.com/vihangayt0)",
+    "npm_publisher": "VihangaYT",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vihangayt0/Aptoide-Scraper/issues"
+    },
+    "homepage": "https://github.com/vihangayt0/Aptoide-Scraper#readme"
+}
