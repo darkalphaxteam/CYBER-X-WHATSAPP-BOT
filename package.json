@@ -15,6 +15,7 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper-images" : "^1.0.2",
         "@blackamda/telegram-image-url" : "^1.0.0",
+        "@distube/ytdl-core" : "latest",
         "@sl-code-lords/si-subdl" : "^1.1.1",
         "@sl-code-lords/youtube-dl" : "^1.0.4",
         "@sl-code-lords/wabetainfo" : "^1.2.0",
