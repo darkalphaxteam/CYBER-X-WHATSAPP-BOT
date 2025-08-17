@@ -12,17 +12,17 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "SHABAN-MD~3AVWUKTZ#HtBe7v06UHVQTg_cjItj_PElDTQN-Cmf9ks66x4W834",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "HRKU-AAP86I6kb5dGKABb-iTiGU7YEL5COAS1OXU4zkBctF6A_____whFdPONPyhH",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "nomanki3233",
             "required": true,
             "value": ""
         },
